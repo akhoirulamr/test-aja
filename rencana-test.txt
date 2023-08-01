@@ -3,4 +3,5 @@ ashdasdasda
 asdjasdjada
 sadjasdjasj
 asdasdasdaa
-asdasdasd
+angular dan react
+laravel
